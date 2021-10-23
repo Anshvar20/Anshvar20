@@ -2,7 +2,10 @@
 - 👀 I’m interested in Tech ＆ Programming
 - 🌱 I’m currently learning APIs 
 - 💞️ I’m looking to collaborate on Github Community
-- 📫 How to reach me github/Anshvar20
+- 📫 How to reach me 
+- 📧anshvarshney58@gmail.com
+- Website:- anshvarshney.me 
+- Github:- Anshvar20
 
 <!---
 Anshvar20/Anshvar20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
